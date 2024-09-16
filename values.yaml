@@ -1,3 +1,3 @@
 deployment:
-  replicas: 10
-  imageVersion: mainline-alpine3.20-perl
+  replicas: 3
+  imageVersion: mainline-alpine3.18-perl
